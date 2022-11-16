@@ -1,5 +1,7 @@
 body{background-color: gray;}
 #banner{width:100%;}
-p,h1{text-align: center;} 
-p,h1{font-size: 30px;}
+p,h1,h2{text-align: justify;
+    font-size: 30px;} 
+.beneficios{background-color: aliceblue;text-align: justify; font-style: italic
+    ;font-size: 30px;}
 #missao{color:red;}
