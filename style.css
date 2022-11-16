@@ -1,4 +1,5 @@
 body{background-color: gray;}
+#banner{width:100%;}
 p,h1{text-align: center;} 
 p,h1{font-size: 30px;}
 #missao{color:red;}
