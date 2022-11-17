@@ -1,7 +1,11 @@
-body{background-color: gray;}
 #banner{width:100%;}
-p,h1,h2{text-align: justify;
-    font-size: 30px;} 
-.beneficios{background-color: aliceblue;text-align: justify; font-style: italic
-    ;font-size: 30px;}
+
+.principal{text-align: center;background-color: gray; font-size: 30px; padding: 30px;}
+
+.beneficios{text-align: justify; font-style: italic;font-size:30px; display:inline-block; vertical-align:top; width: 20%; margin-right: 15%; padding: 20px; }
+
+h2{text-align: center; font-size: 30px; padding: 20px;}
+
 #missao{color:red;}
+
+.imagensbeneficios{width: 50%;}
