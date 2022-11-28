@@ -9,7 +9,7 @@
     <title>Produtos - Barbearia</title>
 </head>
 <body>
-    
+    <!--Essa parte é o cabeçalho cinza e o links para as outras páginas-->
     <header>
         <div class="caixa">
             <h1><img src="Imagens/logo.png" alt="logo da Barbearia"></h1>
@@ -26,6 +26,7 @@
     <main>
         
         <form>
+            <!--Essa parte é aonde coloco as informações, para o cliente mandar mensagem-->
             <div>
                 <label for="nomesobrenome">Nome e sobrenome</label>
                 <input type="text"  id="nomesobrenome" class="input_padrao">
@@ -40,6 +41,7 @@
                 <textarea id="mensagem" cols="70" rows="10"></textarea class="input_padrao">
             </div>
 
+            <!--como o cliente prefere o contato-->
             <div> 
                 <p>Como prefere o nosso contato? </p>
                 <label for="radio-email"><input type="radio" name="contato" id="radio-email">E-mail</label>                
@@ -49,13 +51,28 @@
                 <label for="radio-whatsapp"><input type="radio" name="contato" id="radio-whatsapp">WhatsApp</label>                
             </div>
 
-            <label class="checkbox"><input type="checkbox"> Gostaria de receber nossos e-mails? </label>
+            <!--como o cliente prefere ser atendido-->
+            <p>Qual horário prefere ser atendido?</p>
+            <div>
+                <select>
+                    <option>Manhã</option>
+                    <option>Tarde</option>
+                    <option>Noite</option>
+                </select>
+            </div>
+                
 
-            <input type="submit" value="Envar">
+
+            <div>
+                <label class="checkbox"><input type="checkbox"> Gostaria de receber nossos e-mails? </label>
+
+                <input type="submit" value="Envar">
+            </div>        
+
         </form>
 
     </main>
-
+    <!--Parte do rodapé junto com a imagem e copyright-->
     <footer>
         <img src="Imagens/logo-branco.png" alt="logo branca">
         <p class="copy">&copy; Copyright  Barbearia alura - 2019</p>
