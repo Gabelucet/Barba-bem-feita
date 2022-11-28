@@ -82,7 +82,7 @@ main{
 form{
     margin: 40px 0px;}
 
-form label, form p{
+form label, form legend{
     display: block;
     font-size: 20px;
     margin-bottom: 10px;
@@ -95,5 +95,19 @@ form label, form p{
     width: 50%;}
 
 .checkbox{
-    margin: 20px 0px;
+    margin: 20px 0px;}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0px;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.enviar:hover{
+    background:darkorange;
 }
