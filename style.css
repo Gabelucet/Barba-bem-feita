@@ -106,8 +106,8 @@ form label, form legend{
     font-size: 20px;
     border: none;
     border-radius: 5px;
-}
+    transition:1s;
+    cursor: pointer;}
 
 .enviar:hover{
-    background:darkorange;
-}
+    background:darkorange}
