@@ -221,7 +221,7 @@ td,th{
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }    
-    .principal p,.utensilios,.mapa-conteudo, .conteudo-beneficios{
+    .principal p,.utensilios,.mapa-conteudo, .conteudo-beneficios, .video{
         margin:0 1em;
     }
     h1 {
@@ -229,7 +229,7 @@ td,th{
     }
     nav {
         position:static;
-        margin-left: 1em;
+        margin-left: 1.5em;
     }   
     .lista-beneficios, imagem-beneficios {
         width: 100%
@@ -237,6 +237,9 @@ td,th{
     .produtos li{
         display: block;
         margin-top: 2em;
+    }
+    main form, table{
+        margin-left: 1em;
     }
 
 }
