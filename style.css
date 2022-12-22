@@ -234,4 +234,9 @@ td,th{
     .lista-beneficios, imagem-beneficios {
         width: 100%
     }
+    .produtos li{
+        display: block;
+        margin-top: 2em;
+    }
+
 }
