@@ -189,8 +189,12 @@ td,th{
 }
 
 .itens{
-    line-height: 1.5;
+    line-height: 2.5;
 
+}
+
+.itens:before{
+    content: "✭";
 }
 
 .itens:first-child{
