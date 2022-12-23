@@ -237,9 +237,14 @@ td,th{
     .produtos li{
         display: block;
         margin-top: 2em;
+        width: auto;
+        
     }
     main form, table{
         margin-left: 1em;
+    }
+    .produtos{
+        width: auto;
     }
 
 }
