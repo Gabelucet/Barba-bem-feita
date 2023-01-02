@@ -16,7 +16,7 @@ Logo abaixo, você poderá ver como fica às três páginas do site através da 
 <h3 align=center>Layout web</h3>
 <p align=center>Essa é a versão para Web</p>
 <div align=center>
-<img src="assets/img_final(2)">
-<img src="assets/img_final(1)">
-<img src="assets/img_final(3)">
+<img src="assets/img_final.(2).jpeg">
+<img src="assets/img_final(1).jpeg">
+<img src="assets/img_final(3).jpeg">
 </div>
