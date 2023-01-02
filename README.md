@@ -31,4 +31,4 @@
 
 <h3 align="center"> Autor</h3>
 <p align="center"> Trabalho feito por Gabriel Nascimento da Silva</p>
-  <p align="center">https://www.linkedin.com/in/gabriel-nascimento-dev/</p>
+<p align="center">https://www.linkedin.com/in/gabriel-nascimento-dev/</p>
