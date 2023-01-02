@@ -23,12 +23,11 @@
   <img src="assets/img_final.jpg" height="250px">
   </div>
 
+<div align="center">
   <h2 align="center"> Tecnologias utilizadas</h2>
   - HTML<br>
   - CSS
+<div>
 
 <h3 align="center"> Autor</h3>
-<p align="center"> Trabalho feito por Gabriel Nascimento da Silve</p>
-  
-  
-
+<p align="center"> Trabalho feito por Gabriel Nascimento da Silva</p>
