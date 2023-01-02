@@ -7,8 +7,10 @@ A construção do site visa o atendimento em uma barbearia fictícia, onde é mo
 Também foi construído uma página apenas para os serviços que são prestados na barbearia, com isso, deixando o site completo e mostrando toda a experiência que o cliente terá, ao visitar a nossa barbearia.</p>
 
 <h3 align="center">Layout Mobile</h3>
-Pensando na usabilidade dos clientes que usariam a barbearia, o site também é responsivo, ou seja, também se adapta a tela de dispositivos moveis.<br>
-Logo abaixo, você poderá ver como fica às três páginas do site através da tela do celular.
+<p align="center">Pensando na usabilidade dos clientes que usariam a barbearia, o site também é responsivo, ou seja, também se adapta a tela de dispositivos moveis.<br>
+Logo abaixo, você poderá ver como fica às três páginas do site através da tela do celular.</p>
 <div align="center">
 <img src="assets/1.gif" height ="374px">
 </div>
+
+<h3 align=center>Layout web</h3>
