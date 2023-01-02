@@ -1,4 +1,4 @@
-<div style = font-size="2em">
+
   <h1 align="center">Barba Bem Feita</h1>
 
   <h2 align="center">Sobre o projeto:</h2>
@@ -26,4 +26,9 @@
   <h2 align="center"> Tecnologias utilizadas</h2>
   - HTML<br>
   - CSS
-</div>
+
+<h3 align="center"> Autor</h3>
+<p align="center"> Trabalho feito por Gabriel Nascimento da Silve</p>
+  
+  
+
