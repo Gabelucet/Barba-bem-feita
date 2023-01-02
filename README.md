@@ -9,5 +9,5 @@ Também foi construído uma página apenas para os serviços que são prestados 
 ## Layout Mobile
 Pensando na usabilidade dos clientes que usariam a barbearia, o site também é responsivo, ou seja, também se adapta a tela de dispositivos moveis.<br>
 Logo abaixo, você poderá ver como fica às três páginas do site através da tela do celular.
-<img src="1.gif"
+<img src="assets/1.gif"
  
